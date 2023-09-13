@@ -1,0 +1,15 @@
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\bin\Debug\net6.0\Project3_File_InO.exe
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\bin\Debug\net6.0\Project3_File_InO.deps.json
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\bin\Debug\net6.0\Project3_File_InO.runtimeconfig.json
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\bin\Debug\net6.0\Project3_File_InO.dll
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\bin\Debug\net6.0\Project3_File_InO.pdb
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.csproj.AssemblyReference.cache
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.AssemblyInfoInputs.cache
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.AssemblyInfo.cs
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.csproj.CoreCompileInputs.cache
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.dll
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\refint\Project3_File_InO.dll
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.pdb
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\Project3_File_InO.genruntimeconfig.cache
+C:\Users\zacha\OneDrive\Documents\Text_n_Ass\Spring 2023\CIT165_Csharp\Project3_FileIO\Project3_File_InO\obj\Debug\net6.0\ref\Project3_File_InO.dll
